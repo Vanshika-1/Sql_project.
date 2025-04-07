@@ -1,1 +1,1 @@
-# Sql_project.
+Stock Market Analysis
